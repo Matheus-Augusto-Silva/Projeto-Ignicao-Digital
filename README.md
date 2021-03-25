@@ -2,18 +2,18 @@
 
 ### 🚀 Rodando a aplicação web (Front End)
 
-# Clone este repositório
+## Clone este repositório
 
 $ git clone
 
-# Acesse a pasta do projeto no seu terminal/cmd
+## Acesse a pasta do projeto no seu terminal/cmd
 
-# Instale as dependências
+## Instale as dependências
 
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+## Execute a aplicação em modo de desenvolvimento
 
 $ npm start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+### Após a instalação, a aplicação será aberta na porta:3000 - acesse http://localhost:3000
